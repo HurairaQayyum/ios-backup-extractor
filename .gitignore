@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# --- iOS Backup Extractor Custom Targets ---
+Backup/
+Extracted_Backup/
+Click_To_Run.bat
+*.db
